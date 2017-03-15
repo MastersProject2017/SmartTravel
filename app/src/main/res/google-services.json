@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "900837170087",
+    "firebase_url": "https://my-master-application.firebaseio.com",
+    "project_id": "my-master-application",
+    "storage_bucket": "my-master-application.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:900837170087:android:6e8eef465a8da464",
+        "android_client_info": {
+          "package_name": "com.example.sayor.mymasterapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "900837170087-itafgp0h2o5lbvi93h0o9i2ofoief3jd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuULug07TDMCH53kKwSJP7CTJ4OWZjE6A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
